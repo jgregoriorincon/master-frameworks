@@ -103,5 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-#MacOS
+# System Files
 .DS_Store
+Thumbs.db
